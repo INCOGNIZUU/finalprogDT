@@ -1,5 +1,5 @@
 function changePage() {
-  location.href = 'http://127.0.0.1:5500/products.html';
+  location.href = 'https://incognizuu.github.io/finalprogDT/products.html';
 }
 var x = document.getElementById('p1');
 var y = document.getElementById('p2');
